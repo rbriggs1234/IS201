@@ -1,0 +1,47 @@
+.footer{
+    color: gray;
+}
+.link{
+    text-decoration: underline;
+    color: blue;
+    font-size: larger;
+}
+.font{
+    font-family: fantasy;
+}
+.backgroundcolor {
+    background-color: bisque;
+}
+.footercolor{
+    background-color: azure;
+}
+.fontsize1{
+    font-size: 50ch;
+}
+.font2{
+    font-style:italic
+}
+.font3{
+    font-style: normal;
+}
+.font4{
+    color: rgb(127, 69, 69);
+}
+.header4{
+    position:absolute;
+
+    top: 5px;
+    left: 1000px;
+    right: 5px;
+    height: 100px;
+    
+}
+.position{
+    margin-left: auto;
+    margin-right: auto;
+    width: 15em;
+    
+}
+.backgroundcolor1 {
+    background-color: rgb(252, 251, 249);
+}
